@@ -51,3 +51,19 @@ body {
 .no-result-text {
   @apply w-full text-center my-10 px-2;
 }
+
+.gap-small {
+  gap: 1rem
+}
+
+.gap-medium {
+  gap: 1.4rem
+}
+
+.gap-big {
+  gap: 1.75rem
+}
+
+.gap-huge {
+  gap: 2rem
+}
